@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1535374088 source:c:\users\abhijeet\documents\c programs\programs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1535371921 source:c:\users\abhijeet\documents\c programs\programs\hello.c
+
